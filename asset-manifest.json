@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tatu_urbano/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tatu_urbano/static/js/main.66f5d2f5.chunk.js",
+    "main.js.map": "/tatu_urbano/static/js/main.66f5d2f5.chunk.js.map",
+    "runtime-main.js": "/tatu_urbano/static/js/runtime-main.b9a4921f.js",
+    "runtime-main.js.map": "/tatu_urbano/static/js/runtime-main.b9a4921f.js.map",
+    "static/js/2.1050a93f.chunk.js": "/tatu_urbano/static/js/2.1050a93f.chunk.js",
+    "static/js/2.1050a93f.chunk.js.map": "/tatu_urbano/static/js/2.1050a93f.chunk.js.map",
+    "static/js/3.5fdf96fd.chunk.js": "/tatu_urbano/static/js/3.5fdf96fd.chunk.js",
+    "static/js/3.5fdf96fd.chunk.js.map": "/tatu_urbano/static/js/3.5fdf96fd.chunk.js.map",
+    "index.html": "/tatu_urbano/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tatu_urbano/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1050a93f.chunk.js.LICENSE.txt": "/tatu_urbano/static/js/2.1050a93f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tatu_urbano/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9a4921f.js",
+    "static/js/2.1050a93f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.66f5d2f5.chunk.js"
+  ]
+}
