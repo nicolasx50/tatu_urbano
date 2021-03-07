@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tatu_urbano/static/css/main.57b99821.chunk.css",
-    "main.js": "/tatu_urbano/static/js/main.cc066a0c.chunk.js",
-    "main.js.map": "/tatu_urbano/static/js/main.cc066a0c.chunk.js.map",
+    "main.css": "/tatu_urbano/static/css/main.b01ef04d.chunk.css",
+    "main.js": "/tatu_urbano/static/js/main.7382d520.chunk.js",
+    "main.js.map": "/tatu_urbano/static/js/main.7382d520.chunk.js.map",
     "runtime-main.js": "/tatu_urbano/static/js/runtime-main.b9a4921f.js",
     "runtime-main.js.map": "/tatu_urbano/static/js/runtime-main.b9a4921f.js.map",
     "static/js/2.1050a93f.chunk.js": "/tatu_urbano/static/js/2.1050a93f.chunk.js",
@@ -10,15 +10,22 @@
     "static/js/3.5fdf96fd.chunk.js": "/tatu_urbano/static/js/3.5fdf96fd.chunk.js",
     "static/js/3.5fdf96fd.chunk.js.map": "/tatu_urbano/static/js/3.5fdf96fd.chunk.js.map",
     "index.html": "/tatu_urbano/index.html",
-    "static/css/main.57b99821.chunk.css.map": "/tatu_urbano/static/css/main.57b99821.chunk.css.map",
+    "static/css/main.b01ef04d.chunk.css.map": "/tatu_urbano/static/css/main.b01ef04d.chunk.css.map",
     "static/js/2.1050a93f.chunk.js.LICENSE.txt": "/tatu_urbano/static/js/2.1050a93f.chunk.js.LICENSE.txt",
+    "static/media/cabeza_universo.1f4525fa.jpeg": "/tatu_urbano/static/media/cabeza_universo.1f4525fa.jpeg",
+    "static/media/calavera_marciana.23e5509e.jpeg": "/tatu_urbano/static/media/calavera_marciana.23e5509e.jpeg",
     "static/media/diploma_maxy.ed1c8f78.png": "/tatu_urbano/static/media/diploma_maxy.ed1c8f78.png",
-    "static/media/diploma_nicol.222dbca9.png": "/tatu_urbano/static/media/diploma_nicol.222dbca9.png"
+    "static/media/diploma_nicol.222dbca9.png": "/tatu_urbano/static/media/diploma_nicol.222dbca9.png",
+    "static/media/girasoles01.f8a46333.jpeg": "/tatu_urbano/static/media/girasoles01.f8a46333.jpeg",
+    "static/media/mariposas.8f91c17d.jpeg": "/tatu_urbano/static/media/mariposas.8f91c17d.jpeg",
+    "static/media/nave_espacial.e86c0022.jpeg": "/tatu_urbano/static/media/nave_espacial.e86c0022.jpeg",
+    "static/media/rosa_en_los_pechos.b5cbb2e0.jpeg": "/tatu_urbano/static/media/rosa_en_los_pechos.b5cbb2e0.jpeg",
+    "static/media/serpiente.2164344b.jpeg": "/tatu_urbano/static/media/serpiente.2164344b.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.b9a4921f.js",
     "static/js/2.1050a93f.chunk.js",
-    "static/css/main.57b99821.chunk.css",
-    "static/js/main.cc066a0c.chunk.js"
+    "static/css/main.b01ef04d.chunk.css",
+    "static/js/main.7382d520.chunk.js"
   ]
 }
