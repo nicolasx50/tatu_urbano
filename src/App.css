@@ -32,3 +32,9 @@ footer {
 footer i {
   margin: 0 0.25em 0.5em 0.25em;
 }
+.carousel-item {
+  text-align: center;
+}
+.tatuadores {
+  text-align: center;
+}
